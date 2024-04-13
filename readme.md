@@ -13,3 +13,4 @@
 ## git add .
 ## git commit -m "errores corregidos"
 ## git remote add origin https://github.com/javmaldonado/desafiobranching
+## git push origin main 
